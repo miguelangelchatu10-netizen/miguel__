@@ -11,4 +11,4 @@ Para tener una copia de este proyecto de manera local en tu computadora y ejecut
 1. **Clonar el repositorio:**
    Abre la terminal (Git Bash o CMD) y ejecuta el siguiente comando:
 ```bash
-   git clone [https://github.com/miguelangelchatu10-netizen/miguel__.git]
+git clone https://github.com/miguelangelchatu10-netizen/miguel__.git
